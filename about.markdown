@@ -1,5 +1,5 @@
 ---
-layout: articles_by_tag
+layout: post
 title: About
 permalink: /about/
 ---
